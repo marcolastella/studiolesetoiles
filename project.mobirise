@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Les Étoiles Studio",
-    "currentPage": "events.html",
+    "currentPage": "artists.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2721,16 +2721,6 @@
                 "active": true
               },
               {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/b4c0288-2000x1332-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-b4c0288-2000x1332.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2747,16 +2737,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/b4c0323-2000x3001-800x1200.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-b4c0323-2000x3001.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/b4c0350-2000x3001-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-b4c0350-2000x3001.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3001,37 +2981,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/sklem-1-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/sklem-1-2000x1333.jpg",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sklem-2-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sklem-2-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sklem-3-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sklem-3-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sklem-4-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sklem-4-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Beautiful",
@@ -3081,7 +3031,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/b4c3552-2000x2999-800x1199.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-b4c3552-2000x2999.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "4",
