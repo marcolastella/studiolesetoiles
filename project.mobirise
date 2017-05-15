@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Les Étoiles Studio",
-    "currentPage": "ballet.html",
+    "currentPage": "makeofF.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.8",
-    "uniqCompNum": 88,
+    "uniqCompNum": 92,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "favicon": "@PROJECT_PATH@/assets/images/logo-icon-128x128-2.png",
@@ -120,7 +120,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fashion.html\">FASHION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hautecouture.html\">HAUTE COUTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vintage.html\">VINTAGE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"urban.html\">URBAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">PORTRAITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">KIDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">EVENTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ballet.html\">BALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artists.html\">ARTISTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"musicians.html\">MUSICIANS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fashion.html\">FASHION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hautecouture.html\">HAUTE COUTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vintage.html\">VINTAGE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"urban.html\">URBAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">PORTRAITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">KIDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">EVENTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ballet.html\">BALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artists.html\">ARTISTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"musicians.html\">MUSICIANS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">MAKE OF</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -264,7 +264,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fashion.html\">FASHION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hautecouture.html\">HAUTE COUTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vintage.html\">VINTAGE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"urban.html\">URBAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">PORTRAITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">KIDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">EVENTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ballet.html\">BALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artists.html\">ARTISTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"musicians.html\">MUSICIANS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fashion.html\">FASHION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hautecouture.html\">HAUTE COUTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vintage.html\">VINTAGE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"urban.html\">URBAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">PORTRAITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">KIDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">EVENTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ballet.html\">BALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artists.html\">ARTISTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"musicians.html\">MUSICIANS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">MAKE OF</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -536,7 +536,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fashion.html\">FASHION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hautecouture.html\">HAUTE COUTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vintage.html\">VINTAGE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"urban.html\">URBAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">PORTRAITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">KIDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">EVENTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ballet.html\">BALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artists.html\">ARTISTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"musicians.html\">MUSICIANS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fashion.html\">FASHION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hautecouture.html\">HAUTE COUTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vintage.html\">VINTAGE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"urban.html\">URBAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">PORTRAITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">KIDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">EVENTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ballet.html\">BALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artists.html\">ARTISTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"musicians.html\">MUSICIANS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">MAKE OF</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -848,7 +848,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fashion.html\">FASHION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hautecouture.html\">HAUTE COUTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vintage.html\">VINTAGE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"urban.html\">URBAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">PORTRAITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">KIDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">EVENTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ballet.html\">BALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artists.html\">ARTISTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"musicians.html\">MUSICIANS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fashion.html\">FASHION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hautecouture.html\">HAUTE COUTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vintage.html\">VINTAGE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"urban.html\">URBAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">PORTRAITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">KIDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">EVENTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ballet.html\">BALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artists.html\">ARTISTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"musicians.html\">MUSICIANS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">MAKE OF</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1120,7 +1120,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fashion.html\">FASHION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hautecouture.html\">HAUTE COUTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vintage.html\">VINTAGE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"urban.html\">URBAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">PORTRAITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">KIDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">EVENTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ballet.html\">BALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artists.html\">ARTISTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"musicians.html\">MUSICIANS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fashion.html\">FASHION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hautecouture.html\">HAUTE COUTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vintage.html\">VINTAGE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"urban.html\">URBAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">PORTRAITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">KIDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">EVENTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ballet.html\">BALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artists.html\">ARTISTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"musicians.html\">MUSICIANS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">MAKE OF</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1346,7 +1346,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fashion.html\">FASHION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hautecouture.html\">HAUTE COUTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vintage.html\">VINTAGE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"urban.html\">URBAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">PORTRAITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">KIDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">EVENTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ballet.html\">BALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artists.html\">ARTISTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"musicians.html\">MUSICIANS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fashion.html\">FASHION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hautecouture.html\">HAUTE COUTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vintage.html\">VINTAGE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"urban.html\">URBAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">PORTRAITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">KIDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">EVENTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ballet.html\">BALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artists.html\">ARTISTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"musicians.html\">MUSICIANS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">MAKE OF</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1599,7 +1599,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fashion.html\">FASHION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hautecouture.html\">HAUTE COUTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vintage.html\">VINTAGE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"urban.html\">URBAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">PORTRAITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">KIDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">EVENTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ballet.html\">BALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artists.html\">ARTISTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"musicians.html\">MUSICIANS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fashion.html\">FASHION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hautecouture.html\">HAUTE COUTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vintage.html\">VINTAGE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"urban.html\">URBAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">PORTRAITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">KIDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">EVENTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ballet.html\">BALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artists.html\">ARTISTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"musicians.html\">MUSICIANS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">MAKE OF</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1872,7 +1872,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fashion.html\">FASHION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hautecouture.html\">HAUTE COUTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vintage.html\">VINTAGE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"urban.html\">URBAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">PORTRAITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">KIDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">EVENTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ballet.html\">BALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artists.html\">ARTISTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"musicians.html\">MUSICIANS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fashion.html\">FASHION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hautecouture.html\">HAUTE COUTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vintage.html\">VINTAGE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"urban.html\">URBAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">PORTRAITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">KIDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">EVENTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ballet.html\">BALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artists.html\">ARTISTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"musicians.html\">MUSICIANS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">MAKE OF</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2245,7 +2245,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fashion.html\">FASHION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hautecouture.html\">HAUTE COUTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vintage.html\">VINTAGE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"urban.html\">URBAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">PORTRAITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">KIDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">EVENTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ballet.html\">BALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artists.html\">ARTISTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"musicians.html\">MUSICIANS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fashion.html\">FASHION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hautecouture.html\">HAUTE COUTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vintage.html\">VINTAGE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"urban.html\">URBAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">PORTRAITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">KIDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">EVENTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ballet.html\">BALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artists.html\">ARTISTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"musicians.html\">MUSICIANS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">MAKE OF</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2491,7 +2491,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fashion.html\">FASHION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hautecouture.html\">HAUTE COUTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vintage.html\">VINTAGE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"urban.html\">URBAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">PORTRAITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">KIDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">EVENTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ballet.html\">BALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artists.html\">ARTISTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"musicians.html\">MUSICIANS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fashion.html\">FASHION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hautecouture.html\">HAUTE COUTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vintage.html\">VINTAGE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"urban.html\">URBAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">PORTRAITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">KIDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">EVENTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ballet.html\">BALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artists.html\">ARTISTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"musicians.html\">MUSICIANS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">MAKE OF</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2754,7 +2754,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fashion.html\">FASHION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hautecouture.html\">HAUTE COUTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vintage.html\">VINTAGE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"urban.html\">URBAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">PORTRAITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">KIDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">EVENTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ballet.html\">BALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artists.html\">ARTISTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"musicians.html\">MUSICIANS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fashion.html\">FASHION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hautecouture.html\">HAUTE COUTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vintage.html\">VINTAGE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"urban.html\">URBAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">PORTRAITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">KIDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">EVENTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ballet.html\">BALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artists.html\">ARTISTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"musicians.html\">MUSICIANS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">MAKE OF</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2977,7 +2977,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fashion.html\">FASHION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hautecouture.html\">HAUTE COUTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vintage.html\">VINTAGE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"urban.html\">URBAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">PORTRAITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">KIDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">EVENTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ballet.html\">BALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artists.html\">ARTISTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"musicians.html\">MUSICIANS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fashion.html\">FASHION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hautecouture.html\">HAUTE COUTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vintage.html\">VINTAGE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"urban.html\">URBAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">PORTRAITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">KIDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">EVENTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ballet.html\">BALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artists.html\">ARTISTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"musicians.html\">MUSICIANS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">MAKE OF</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -3127,7 +3127,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fashion.html\">FASHION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hautecouture.html\">HAUTE COUTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vintage.html\">VINTAGE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"urban.html\">URBAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">PORTRAITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">KIDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">EVENTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ballet.html\">BALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artists.html\">ARTISTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"musicians.html\">MUSICIANS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fashion.html\">FASHION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hautecouture.html\">HAUTE COUTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vintage.html\">VINTAGE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"urban.html\">URBAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">PORTRAITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">KIDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">EVENTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ballet.html\">BALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artists.html\">ARTISTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"musicians.html\">MUSICIANS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">MAKE OF</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -3199,6 +3199,194 @@
           },
           "text": "WE ARE SOCIAL!",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/studiolesetoiles\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCDdtY5iBuMJPP1-wjta-YNA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/studiolesetoiles/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/les-%C3%A9toiles-studio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        }
+      ]
+    },
+    "makeofF.html": {
+      "settings": {
+        "title": "Make OF",
+        "meta_descr": "Website Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2g",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fashion.html\">FASHION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hautecouture.html\">HAUTE COUTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vintage.html\">VINTAGE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"urban.html\">URBAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">PORTRAITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">KIDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">EVENTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ballet.html\">BALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artists.html\">ARTISTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"musicians.html\">MUSICIANS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">MAKE OF</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-2h",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/rCxJ8qg_5vY?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "right",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "VIDEO BACKGROUND",
+          "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-2i",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/K2hxV0huLiU?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "right",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "VIDEO BACKGROUND",
+          "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-2j",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/ExHhveL9PK8?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "right",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "VIDEO BACKGROUND",
+          "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     }
