@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Les Étoiles Studio",
-    "currentPage": "index.html",
+    "currentPage": "events.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3281,7 +3281,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Digita qui una didascalia",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Eccezionale",
@@ -3372,20 +3372,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Digita qui una didascalia",
-                "active": false
-              },
-              {
-                "tags": "Eccezionale",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/g1a0107-2000x2999.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/g1a0107-2000x2999-800x1200.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Digita qui una didascalia",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Eccezionale",
