@@ -1830,6 +1830,14 @@ body {
 .cid-rqyjersyM4 .social-list a:focus {
   text-decoration: none;
 }
+.cid-ruGaGNOnHS {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #efefef;
+}
+.cid-ruGaGNOnHS .media-container-row .mbr-text {
+  color: #232323;
+}
 .cid-ruqrbCUw2D .navbar {
   background: #ffffff;
   transition: none;
